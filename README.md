@@ -1,2 +1,2 @@
 # Criptografia
-criptografia em arquivos
+cifrar e decifrar arquivos e imagens, utilizando também watermarking
